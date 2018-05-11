@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Awesome Phone',
+  title: 'My Awesome Phone by Patrick J. Barabe',
   description: "Very Short Stories About My Awesome Phone",
   base: "/myawesomephone/",
   dest: "docs",
