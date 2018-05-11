@@ -2,7 +2,7 @@
 home: true
 title: My Awesome Phone
 lang: en-US
-heroImage: /img/alexander-andrews-261078-unsplash.jpg
+heroImage: /img/hero.jpg
 meta:
   - name: description
     content: Very Short Stories About My Awesome Phone
@@ -10,7 +10,6 @@ meta:
     content: stories, phones, awesome, surreal, giraffe, elephant, circus, hawaiian shirts, wolves, aliens, spaghetti, Fidel Castro, Christopher Columbus, Mexican Revolution, time travel, dwarf
 footer: Copyright © 2010-present Patrick J. Barabe, all rights reserved
 ---
-
 ## Table Of Contents
  - [My Phone Walked Into A Bar](./2010-09-23_my-phone-walked-into-a-bar.md)
  - [10,000 Years Ago](./2010-09-24_10000-years-ago.md)
@@ -23,7 +22,7 @@ footer: Copyright © 2010-present Patrick J. Barabe, all rights reserved
 
 ## About
 
-These stories began some years ago as a response to a friend's Facebook status: "No one cares what your phone can do." The friend later responded, "Actually, I do kind of care what Patrick's phone can do."
+These stories began some years ago as a response to a friend's Facebook status: _"No one cares what your phone can do."_ The friend later responded, _"Actually, I do kind of care what Patrick's phone can do."_
 
 ## Other Media
 
