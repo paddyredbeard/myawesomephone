@@ -1,0 +1,39 @@
+{
+  "name": "myawesomephone",
+  "version": "1.0.0",
+  "description": "Very Short Stories About My Awesome Phone",
+  "main": "index.js",
+  "directories": {
+    "src": "src"
+  },
+  "scripts": {
+    "src:dev": "vuepress dev src",
+    "src:build": "vuepress build src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stories",
+    "phones",
+    "awesome",
+    "surreal",
+    "giraffe",
+    "elephant",
+    "circus",
+    "hawaiian",
+    "shirts",
+    "wolves",
+    "aliens",
+    "spaghetti",
+    "Fidel",
+    "Castro",
+    "Christopher",
+    "Columbus",
+    "Mexican",
+    "Revolution",
+    "time",
+    "travel",
+    "dwarf"
+  ],
+  "author": "Patrick J Barabe",
+  "license": "ISC"
+}
