@@ -2,7 +2,7 @@
 home: true
 title: My Awesome Phone
 lang: en-US
-heroImage: img/alexander-andrews-261078-unsplash.jpg
+heroImage: /img/alexander-andrews-261078-unsplash.jpg
 meta:
   - name: description
     content: Very Short Stories About My Awesome Phone
