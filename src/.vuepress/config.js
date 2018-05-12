@@ -1,8 +1,9 @@
 module.exports = {
   title: 'My Awesome Phone',
-  description: "Very Short Stories About My Awesome Phone, by Patrick J. Barabe",
+  description: "No One Cares What Your Phone Can Do",
   base: "/myawesomephone/",
   dest: "docs",
+  ga: "UA-410258-4",
   themeConfig: {
     sidebar: [
       '/',
