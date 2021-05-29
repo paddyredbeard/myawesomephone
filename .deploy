@@ -5,7 +5,7 @@ if [ -f .env ]; then
 fi
 
 echo "Uploading files..."
-aws s3 cp --recursive public ${AWS_S3_BUCKET}
+aws s3 cp --recursive public ${AWS_S3_BUCKET}myawesomephone/
 
 echo ""
 
