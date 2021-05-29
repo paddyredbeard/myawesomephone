@@ -1,22 +1,28 @@
 module.exports = {
   title: 'My Awesome Phone',
-  description: "No One Cares What Your Phone Can Do",
-  base: "/myawesomephone/",
-  dest: "docs",
-  ga: "UA-410258-4",
+  subtitle: 'No One Cares What Your Phone Can Do',
+  description: 'No One Cares What Your Phone Can Do',
+  base: '/myawesomephone/',
+  dest: 'public',
+  ga: 'UA-410258-4',
   themeConfig: {
+    sidebarDepth: 0,
     sidebar: [
-      '/',
-      ['/2010-09-23_my-phone-walked-into-a-bar.md', 'My Phone Walked Into A Bar'],
-      ['/2010-09-24_10000-years-ago.md', '10,000 Years Ago'],
-      ['/2010-09-25_one-day-my-phone.md', 'One Day My Phone'],
-      ['/2010-09-26_47-cats-2-prize-bulls.md', '47 Cats, 2 Prize Bulls, And My Phone'],
-      ['/2010-09-27_in-1957-on-a-rainy-day.md', 'In 1957 On A Rainy Day'],
-      ['/2010-10-11_my-phone-and-christopher-columbus.md', 'My Phone And Christopher Columbus'],
-      ['/2010-10-29_once-upon-a-time-my-phone.md', 'Once Upon A Time My Phone'],
-      ['/2011-07-16_in-1910-my-phone.md', 'In 1910 My Phone']
-    ],
-    lastUpdated: 'Last Updated'
+      {
+        title: 'Stories',
+        collapsable: false,
+        children: [
+          '/2010-09-23_my-phone-walked-into-a-bar',
+          '/2010-09-24_10000-years-ago',
+          '/2010-09-25_one-day-my-phone',
+          '/2010-09-26_47-cats-2-prize-bulls',
+          '/2010-09-27_in-1957-on-a-rainy-day',
+          '/2010-10-11_my-phone-and-christopher-columbus',
+          '/2010-10-29_once-upon-a-time-my-phone',
+          '/2011-07-16_in-1910-my-phone'
+        ]
+      }
+    ]
   },
   configureWebpack: {
     resolve: {

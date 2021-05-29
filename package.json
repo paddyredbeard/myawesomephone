@@ -7,9 +7,10 @@
     "src": "src"
   },
   "scripts": {
-    "src:dev": "vuepress dev src",
-    "src:build": "vuepress build src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "./.deploy",
+    "build:dev": "vuepress dev src",
+    "build:prod": "vuepress build src",
+    "test": "echo 'no tests today'"
   },
   "keywords": [
     "stories",

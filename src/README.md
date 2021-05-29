@@ -3,14 +3,16 @@ home: true
 title: My Awesome Phone
 lang: en-US
 heroImage: /img/hero.jpg
+footer: Copyright © 2010 - present Patrick J. Barabe, all rights reserved
 meta:
   - name: description
     content: Very Short Stories About My Awesome Phone
   - name: keywords
     content: stories, phones, awesome, surreal, giraffe, elephant, circus, hawaiian shirts, wolves, aliens, spaghetti, Fidel Castro, Christopher Columbus, Mexican Revolution, time travel, dwarf
-footer: Copyright © 2010-present Patrick J. Barabe, all rights reserved
 ---
+
 ## Table Of Contents
+
  - [My Phone Walked Into A Bar](./2010-09-23_my-phone-walked-into-a-bar.md)
  - [10,000 Years Ago](./2010-09-24_10000-years-ago.md)
  - [One Day My Phone](./2010-09-25_one-day-my-phone.md)

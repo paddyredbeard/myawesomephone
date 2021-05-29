@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+if [ -f .env ]; then
+  source .env
+fi
+
+echo "Uploading files..."
+aws s3 cp --recursive public ${AWS_S3_BUCKET}
+
+echo ""
+
+echo "Invalidating CloudFront distribution..."
+aws cloudfront create-invalidation --distribution-id ${PDDYRDBRD_CDN} --paths "/myawesomephone/*"
+
