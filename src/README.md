@@ -3,7 +3,7 @@ home: true
 title: My Awesome Phone
 lang: en-US
 heroImage: /img/hero.jpg
-footer: Copyright © 2010 - present Patrick J. Barabe, all rights reserved
+footer: All written content Copyright © 2010 - present Patrick J. Barabe, all rights reserved
 meta:
   - name: description
     content: Very Short Stories About My Awesome Phone
